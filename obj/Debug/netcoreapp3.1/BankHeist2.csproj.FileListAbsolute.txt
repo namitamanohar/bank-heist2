@@ -1,0 +1,11 @@
+C:\Users\manoh\workspace\csharp\BankHeist2\bin\Debug\netcoreapp3.1\BankHeist2.exe
+C:\Users\manoh\workspace\csharp\BankHeist2\bin\Debug\netcoreapp3.1\BankHeist2.deps.json
+C:\Users\manoh\workspace\csharp\BankHeist2\bin\Debug\netcoreapp3.1\BankHeist2.runtimeconfig.json
+C:\Users\manoh\workspace\csharp\BankHeist2\bin\Debug\netcoreapp3.1\BankHeist2.runtimeconfig.dev.json
+C:\Users\manoh\workspace\csharp\BankHeist2\bin\Debug\netcoreapp3.1\BankHeist2.dll
+C:\Users\manoh\workspace\csharp\BankHeist2\bin\Debug\netcoreapp3.1\BankHeist2.pdb
+C:\Users\manoh\workspace\csharp\BankHeist2\obj\Debug\netcoreapp3.1\BankHeist2.csprojAssemblyReference.cache
+C:\Users\manoh\workspace\csharp\BankHeist2\obj\Debug\netcoreapp3.1\BankHeist2.AssemblyInfoInputs.cache
+C:\Users\manoh\workspace\csharp\BankHeist2\obj\Debug\netcoreapp3.1\BankHeist2.AssemblyInfo.cs
+C:\Users\manoh\workspace\csharp\BankHeist2\obj\Debug\netcoreapp3.1\BankHeist2.dll
+C:\Users\manoh\workspace\csharp\BankHeist2\obj\Debug\netcoreapp3.1\BankHeist2.pdb
